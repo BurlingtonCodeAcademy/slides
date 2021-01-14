@@ -61,9 +61,12 @@ In computers, code is a series of instructions that tell a computer what to do.
 
 ## A Program Is Like A Recipe
 
+![Grandma's Cookie Recipe](https://res.cloudinary.com/btvca/image/upload/v1574445171/curriculum/cookie-recipe_rwfphm.gif)
+
 * a recipe is a collection of *ingredients* and *instructions*
 
-![Grandma's Cookie Recipe](https://res.cloudinary.com/btvca/image/upload/v1574445171/curriculum/cookie-recipe_rwfphm.gif)
+
+## A Program Is Like A Recipe
 
 * a program is a collection of *data* and *code*
 
@@ -79,6 +82,10 @@ In computers, code is a series of instructions that tell a computer what to do.
   * like Java or Python or C or Fortran
   * even HTML and CSS and SQL are languages
   * every computer language has a silly name
+
+
+## Languages
+
 * computer languages are very **specific** compared to natural languages
 * different languages are useful in different areas, but there is a lot of overlap
 * today we will learn the JavaScript programming language
@@ -111,6 +118,9 @@ In this class, you will learn about:
 *  Strings, Arrays, Variables, Objects, Loops, Files
 *  How to run your code interactively or from a file
 *  How to make a very simple website run on your own computer
+
+
+## What will we learn?
 
 Follow along online! Put a browser pointed at this site on one side of your screen, and Terminal on the other.
 
